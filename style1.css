@@ -8,9 +8,10 @@
 header{font-family: sans-serif; color: white; background-image: linear-gradient(to bottom, #3BD17F, #36C174, #258450, #1D643C); height: 200px; width: 100%; box-shadow: 1px 1px 1px #1D643C;} 
 #hx{text-align: center; font-family: 'Bebas Neue', cursive; font-size: 3em; padding-top: 30px; font-weight:100; text-shadow: 1px 1px 1px black; margin-top: 0%; margin-bottom: 15px; font-weight: bold;}
 header > p{ text-align: center; margin-block-start: 5px; margin-block-end: 15px;}
-header > a{text-align: justify; color: white; padding: 7px; margin-left: 15px; 
+nav > a{text-align: justify; color: white; padding: 7px; margin-left: 15px; 
 text-decoration: none; transition-duration: 1s;}
 nav > a:hover{color: #1D643C; background-color: #47e08c; border-radius: 5px;}
+nav{ margin: 10px;}
 
 body{background-color: #69f3a7; margin: 0%;}
 main{background-color: white; font-family: Arial, Helvetica, sans-serif; margin-left: 14%; margin-right: 14%; box-shadow: 0px 0px 3px 0px #1c412dad;}
