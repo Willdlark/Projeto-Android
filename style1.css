@@ -14,7 +14,7 @@ header a:hover{color: #1D643C; background-color: #47e08c; border-radius: 5px;}
 nav{ margin: 10px;}
 
 body{background-color: #69f3a7; margin: 0%; display: inline-block;}
-main{background-color: white; font-family: Arial, Helvetica, sans-serif; margin-left: 14%; margin-right: 14%; box-shadow: 0px 0px 3px 0px #1c412dad; margin-top: 1px;}
+main{background-color: white; font-family: Arial, Helvetica, sans-serif; margin-left: 10%; margin-right: 10%; box-shadow: 0px 0px 3px 0px #1c412dad; margin-top: 1px;}
 ul{list-style-type: none; text-decoration: underline; column-count: 2;}
 #hv{font-family: 'idroids'; margin: 0px;padding-top: 20px; border:0px;  font-size: 1.1.5em; color:#095e2f; text-align: justify;}
 section p{text-indent: 30px; line-height: 1em;}
